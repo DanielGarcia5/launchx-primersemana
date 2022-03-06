@@ -19,14 +19,14 @@ selecciona demandas anteriores podra ver una lista de las demandas selecciona la
 la seccion de comentarios asi mismo puede solicitar un pago adicional para que el proceso continue asi mismo podra ver los pagos recibidos
 
 ## Requerimientos
-  1 Sistema de sign in y sign up.
-  2 Formulario de nueva solitud de consulta legal
-  3 visiulizacion de actualizaciones del proceso de la demanda
-  4 Formulario de pago
-  5 Dashboard mostrando los pagos recibidos las nuevas consultas y las consultas en proceso
-  6 Sign up para administradores
-  7 Pantalla para hacer modificaciones (agregar comentarios y solicitar nuevos pagos de las demandas en proceso)
-  8 Crear un documento legal en .docx automaticamente
+1. Sistema de sign in y sign up.
+2. Formulario de nueva solitud de consulta legal
+3. visiulizacion de actualizaciones del proceso de la demanda
+4 .Formulario de pago
+5. Dashboard mostrando los pagos recibidos las nuevas consultas y las consultas en proceso
+6. Sign up para administradores
+7. Pantalla para hacer modificaciones (agregar comentarios y solicitar nuevos pagos de las demandas en proceso)
+8. Crear un documento legal en .docx automaticamente
  
  ## Buyer persona
  
