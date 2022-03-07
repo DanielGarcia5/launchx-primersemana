@@ -31,6 +31,7 @@ la seccion de comentarios asi mismo puede solicitar un pago adicional para que e
  ## Buyer persona
  ![Buyer Persona - DanielGarcia5](https://github.com/DanielGarcia5/launchx-primersemana/blob/main/Buyer%20person.png)
 
+## Publico objetivo
 ### Perfil Geográfico:
 
 -	Que vivan en Veracruz o zona centro del a republica mexicana. 
