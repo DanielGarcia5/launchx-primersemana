@@ -31,3 +31,32 @@ la seccion de comentarios asi mismo puede solicitar un pago adicional para que e
  ## Buyer persona
  ![Buyer Persona - DanielGarcia5](https://github.com/DanielGarcia5/launchx-primersemana/blob/main/Buyer%20person.png)
 
+### Perfil Geográfico:
+
+-	Que vivan en Veracruz o zona centro del a republica mexicana. 
+-	Que hablen español. 
+-	Habitantes de zonas urbanas o urbano marginadas.
+
+### Perfil Demográfico:
+
+-	Personas entre 25 y 60 años. 
+-	Personas de clase media (ingresos iguales o superiores a un salario minimo per capita) 
+-	Sin distinción de género y/o orientacion sexual. 
+-	Con estudios universitarios o superiores. 
+-	Trabajan en el ambito financiero o en el mundo de los negocios. 
+-	La propiedad en donde habitan es propia.
+
+### Perfil Psicográfico:
+
+-	Que tengan un estilo de vida ocupado. 
+-	No les gusta esperar y aceptan las nuevas tegnologias. 
+-	Tienen o han tenido asuntoa legales. 
+-	No estan agusto con el modelo legal actual y quieren facilitar y/o acelerar la burocracia. 
+
+### Perfil de comportamiento:
+
+-	Personas activas y trabajadoras. 
+-	Son abiertos a las nuevas tecnologías. 
+-	Buscan la rapidez en los servicios. 
+- Son activos en las redes sociales. 
+- Les gusta el orden y quieren estar en control en todos los aspectos de su vida
