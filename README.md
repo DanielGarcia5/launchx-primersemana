@@ -61,3 +61,5 @@ la seccion de comentarios asi mismo puede solicitar un pago adicional para que e
 -	Buscan la rapidez en los servicios. 
 - Son activos en las redes sociales. 
 - Les gusta el orden y quieren estar en control en todos los aspectos de su vida
+
+![Buyer Persona - DanielGarcia5](https://github.com/DanielGarcia5/launchx-primersemana/blob/main/Publico%20objetivo.png)
