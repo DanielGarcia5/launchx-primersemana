@@ -29,4 +29,5 @@ la seccion de comentarios asi mismo puede solicitar un pago adicional para que e
 8. Crear un documento legal en .docx automaticamente
  
  ## Buyer persona
- 
+ ![Buyer Persona - Khisus19](https://github.com/khisus19/LaunchX-PrimeraSemana/blob/master/Buyer%20Persona%20-%20Santiago%20Mendoza.png)
+
